@@ -1,0 +1,160 @@
+
+.open-sans-normal{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 160px;
+}
+.bang{
+font-weight: bold;
+font-size:32px ;
+color:rgba(14, 14, 14, 1) ;
+}
+.Sign{
+list-style: none;
+}
+.btn{
+  color: #006A50;
+  font-weight: 600px;
+  border-radius: 8px;
+  padding: 15px 30px;
+  border-color: #006A50;
+  background-color: white;
+}
+.title{
+color:rgba(14, 14, 14, 0.5) ;
+font-weight: medium;
+}
+.heading{
+font-weight: 800px;
+color:#0E0E0E ;
+}
+.btn-primary{
+background-color:#006A50 ;
+color:#FFFFFF;
+padding: 17px 34px;
+border-color:#006A50 ;
+border-radius:8px ;
+}
+.banner{
+  display: flex;
+  background-color:#C6E4D6;
+  padding:80px 100px ;
+  justify-content:space-between ;
+  gap: 64px;
+  margin: 20px 160px;
+
+}
+.img{
+  width: 570px;
+}
+.banner-content{
+  width: 600px;
+}
+.pillars{
+  display: flex;
+  gap: 24px;
+}
+.item-heading{
+  font-weight: bold;
+  font-size: 40px;
+  margin: 32px 60px;
+}
+.items{
+padding:24px 48px ;
+}
+.future{
+
+}
+.vision{
+  display: flex;
+  gap: 24px;
+  
+
+}
+.vision-item{
+  padding: 32px 32px;
+}
+.item-des{
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  
+  
+}
+.item-title{
+  font-weight: bold;
+  font-size: 20px;
+}
+.btn1{
+background-color: #5490F5;
+color:#FFFFFF;
+border-radius: 16px;
+border: none;
+padding: 11px 20px;
+}
+.btn2{
+background-color:#09A15C ;
+color: #FFFFFF;
+border-radius: 16px;
+/* border-color: none; */
+border: none;
+padding: 11px 20px;
+}
+.btn3{
+  background-color:#FFC239 ;
+  color:#FFFFFF;
+  border-radius: 16px;
+  border: none;
+  /* border-color: none; */
+  padding: 11px 20px;
+}
+.back-color1{
+  background-color: rgba(84, 144, 245, 0.2);
+  border-radius: 16px;
+
+}
+.back-color2{
+background-color: rgba(198, 228, 214, 1);
+border-radius: 16px;
+}
+.back-color3
+{
+background-color: rgba(247, 235, 207, 1);
+border-radius: 16px;
+}
+.advisor{
+  padding: 24px 48px;
+  background-image: url('../assets/quote-bg.png');
+  background-repeat: no-repeat;
+  margin: 32px 60px;
+  border-radius: 16px;
+  border-color: rgba(14, 14, 14, 0.15);
+  background-color: #FFFFFF;
+  
+}
+.future{
+  margin: 32px 60px;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+  margin: auto;
+}
+th, td {
+   border: 1px solid #ddd; 
+   padding: 10px;
+    text-align: left; }
+
+        th { 
+          
+        background-color: #c8e6c9;
+         }
+
+        select { 
+          padding: 5px; }

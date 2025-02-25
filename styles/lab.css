@@ -1,0 +1,8 @@
+.nav{
+justify-content: ;
+display: flex;
+justify-content: space-between;
+}
+.list{
+    list-style: none;
+}
