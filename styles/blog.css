@@ -108,11 +108,7 @@ padding: 11px 20px;
 }
 .btn3{
   background-color:#FFC239 ;
-  color:#FFFFFF;
-  border-radius: 16px;
-  border: none;
-  /* border-color: none; */
-  padding: 11px 20px;
+ 
 }
 .back-color1{
   background-color: rgba(84, 144, 245, 0.2);
@@ -158,3 +154,32 @@ th, td {
 
         select { 
           padding: 5px; }
+
+
+        .recent{
+          font-weight: bold;
+          font-size: 40px;
+          color: #0E0E0E;
+        }
+        .btn-bang{
+          background-color: #006A50;
+        }
+        .new-bangladesh{
+          
+        }
+        .button{ 
+         gap: 24px;
+        }
+        .btnb2{
+          background-color:  #C6E4D6;
+          color:#FFFFFF;
+          border-radius: 16px;
+          border: none;
+          /* border-color: none; */
+          padding:  40px;
+        }
+      .btnb1{
+        padding: 40px 40px;
+display: inline;
+        border-radius: 16px;
+      }

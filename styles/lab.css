@@ -6,3 +6,21 @@ justify-content: space-between;
 .list{
     list-style: none;
 }
+.Div{
+   display: grid;
+
+    gap: 24px;
+}
+
+.my-div1{
+    background-color: red;
+    padding: 16px 32px;
+}
+.my-div2{
+    background-color: yellow;
+    padding: 16px 32px;
+}
+.my-div3{
+   background-color: green;
+   padding: 16px 32px;
+}
